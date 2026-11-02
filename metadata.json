@@ -1,0 +1,6 @@
+{
+  "name": "Dhand Stationery",
+  "description": "Your trusted neighborhood store for school essentials, notebooks, fine pens, art supplies, school bags, and fun keyrings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
